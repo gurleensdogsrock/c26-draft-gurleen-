@@ -1,1 +1,1 @@
-# c26-draft-gurleen-
+# project-C26-template
